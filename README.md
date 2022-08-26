@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C6B9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+de+Oliveira+Florindo;I'm+21+years+old;I'm+from+Brazil,+PR;Im+studying+systems+development+at+University+Positivo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C6B9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+de+Oliveira+Florindo;I'm+21+years+old;I'm+from+Brazil,+PR; I'm+studying+systems+development+at+University+Positivo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeoOliveiraf&show_icons=true&count_private=true&hide_border=true&title_color=00C6B9bf&icon_color=00C6B9bf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo de Oliveira Florindo github stats" /> 
